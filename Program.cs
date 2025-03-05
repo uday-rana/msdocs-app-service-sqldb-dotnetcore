@@ -1,4 +1,4 @@
-// Hello world
+// Hello world!
 using Microsoft.EntityFrameworkCore;
 using DotNetCoreSqlDb.Data;
 var builder = WebApplication.CreateBuilder(args);
